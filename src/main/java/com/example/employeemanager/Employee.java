@@ -1,4 +1,4 @@
-package com.example.employeemanager.payroll;
+package com.example.employeemanager;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
