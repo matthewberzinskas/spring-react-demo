@@ -17,7 +17,7 @@ public class Employee {
 
     protected Employee() {}
 
-    private Employee(String firstName, String lastName, String description) {
+    Employee(String firstName, String lastName, String description) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.description = description;
